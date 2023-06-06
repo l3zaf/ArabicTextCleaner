@@ -1,4 +1,3 @@
-tkinter
 arabic_reshaper
 python-bidi
 pyperclip
